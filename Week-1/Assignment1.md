@@ -11,13 +11,13 @@
 
 ## 2.Interpretable Machine Learning is another concept that has attracted lot of attention recently & is promoted by most of the MLOps frameworks. Explain what it means for a linear regression model to be interpretable.
 
-**The goal of science is to gain knowledge, but many problems are solved with big datasets and black box machine learning models. The model itself becomes the source of knowledge instead of the data. Interpretability makes it possible to extract this additional knowledge captured by the model.
+The goal of science is to gain knowledge, but many problems are solved with big datasets and black box machine learning models. The model itself becomes the source of knowledge instead of the data. Interpretability makes it possible to extract this additional knowledge captured by the model.
 
-**Linear regression model is one where data set points are represented in n-dimensional space depending on number of parameters (n). These points in space are classified into multiple groups using a divider which is defined using linear combination of n variables.
+Linear regression model is one where data set points are represented in n-dimensional space depending on number of parameters (n). These points in space are classified into multiple groups using a divider which is defined using linear combination of n variables.
 
-**For example, If you have 2 parameters (n=2), then we can plot these points in 2-D plane and divide these points using a straight line with 2 variables (x & y).
+For example, If you have 2 parameters (n=2), then we can plot these points in 2-D plane and divide these points using a straight line with 2 variables (x & y).
 
-**So we can interpret this logic by simply understanding that related points lie together in one cluster and hence different clusters can be divided using this line which can approximately classify the data set in various categories. Hence a linear regression model turns out to be interpretable.**
+So we can interpret this logic by simply understanding that related points lie together in one cluster and hence different clusters can be divided using this line which can approximately classify the data set in various categories. Hence a linear regression model turns out to be interpretable.
 
 # Part-2
 

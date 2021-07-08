@@ -1,5 +1,5 @@
 
-* 1. In the notes of Week 1, we compared & contrasted MLOps with DevOps. In this question, you need to understand what is meant by the term ***AIOps***, & then contrast it with MLOps.
+## 1. In the notes of Week 1, we compared & contrasted MLOps with DevOps. In this question, you need to understand what is meant by the term ***AIOps***, & then contrast it with MLOps.
 
 **AIOps is short for artificial intelligence for IT operations. It refers to multi-layered technology platforms that automate and enhance IT operations through analytics and machine learning (ML). AIOps platforms leverage big data, collecting a variety of data from various IT operations tools and devices in order to automatically spot and react to issues in real-time while still providing traditional historical analytics.AIOps is used to augment ITOM (IT operational management) and ITSM (IT service management) practices to provide more holistic and causal analysis, contextualizing all incidents.**
 
@@ -9,7 +9,7 @@
 
 **MLOps or AIOps both aim to serve the same end goal; i.e. business automation. While MLOps bridges the gap between model building and deployment, AIOps focuses on determining and reacting to issues in IT operations in real-time so as to manage risks independently.**
 
-* 2.Interpretable Machine Learning is another concept that has attracted lot of attention recently & is promoted by most of the MLOps frameworks. Explain what it means for a linear regression model to be interpretable.
+## 2.Interpretable Machine Learning is another concept that has attracted lot of attention recently & is promoted by most of the MLOps frameworks. Explain what it means for a linear regression model to be interpretable.
 
 **The goal of science is to gain knowledge, but many problems are solved with big datasets and black box machine learning models. The model itself becomes the source of knowledge instead of the data. Interpretability makes it possible to extract this additional knowledge captured by the model.
 

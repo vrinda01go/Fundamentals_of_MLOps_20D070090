@@ -20,3 +20,6 @@
 **So we can interpret this logic by simply understanding that related points lie together in one cluster and hence different clusters can be divided using this line which can approximately classify the data set in various categories. Hence a linear regression model turns out to be interpretable.**
 
 # Part-2
+
+![Screenshot (105)](https://user-images.githubusercontent.com/79842918/124972519-19336d80-e048-11eb-931c-0bc428575758.png)
+
